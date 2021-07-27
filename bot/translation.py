@@ -7,13 +7,16 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+<b>Make me an admin for your group and channel then connect me....🎉</b>
 
-For More Details Click Help Button Below..
-@CrazyBotsz
-</i>"""    
+
+<b>Subscribe to the Main Channel to Our updates and activity...</b>
+
+<b>Press /help to know about available commands🤪</b>""" 
+
+
     
-    HELP_TEXT = """
+     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
@@ -43,7 +46,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+<b><a href="https://t.me/NetflixMovieslk">© S ENTERTAINMENT COMPANY</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
